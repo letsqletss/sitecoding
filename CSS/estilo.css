@@ -8,3 +8,15 @@ body{
     margin-top:20px;
     border-radius: 15px;
 }
+.nav-link{
+color: lightgrey
+}
+p{
+    color: white
+}
+a{
+    font-family:'Gemunu Libre', sans-serif;
+}
+h1{
+    color: lightseagreen
+}
