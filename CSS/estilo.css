@@ -9,7 +9,7 @@ body{
     border-radius: 15px;
 }
 .nav-link{
-color: rgb(131, 80, 172)
+color: purple
 }
 p{
     color: white
@@ -18,5 +18,5 @@ a{
     font-family:'Gemunu Libre', sans-serif;
 }
 h1{
-    color: rgb(111, 23, 170)
+    color: lightpurple
 }
